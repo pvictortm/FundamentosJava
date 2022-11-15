@@ -7,7 +7,6 @@ public class PrimeiroPrograma {
  /**
  * 
  * @Paulo Victor Torres Martins	<paulovictor11pv@hotmail.com>
- * @since 1.0
  */
 	
 	//COMENTANDO UMA SENTENÇA DE CODIGO TERMINADA COM ;
